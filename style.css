@@ -28,13 +28,13 @@ body {
     background-image: url(images/Background-2.png);
     background-repeat: no-repeat;
     background-position: top-left;
-    background-size: 100% 60%;
+    background-size: 100% 96%;
+    height: 600px;
 
 }
 
 .section-b-1 {
     width: 30%;
-    height: 950px;
     padding-left: 10%;
     margin-top: 10px;
 }
@@ -46,6 +46,45 @@ body {
     margin-top: 150px;
     text-align: justify;
 
+}
+
+.section-c-1 {
+    text-align: center;
+    padding: 22px 500px;
+    width: 706px;
+    height: 159px;
+
+}
+
+.section-c-cover {
+    box-shadow: 10px 10px 40px lightgray;
+    width: 45%;
+    height: 65%;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.recipie {
+    height: 308px;
+    width: 92%;
+    border-radius: 30px;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 4%;
+}
+
+.social-media {
+    width: 90%;
+    height: 5%;
+    box-shadow: 10px 10px 40px lightgray;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 8%;
 }
 
 h1 {
@@ -93,4 +132,11 @@ p {
 
 h3 {
     color: #828282;
+}
+
+.social-item {
+    padding-left: 14%;
+    padding-right: 10%;
+    padding-top: 4%;
+    padding-bottom: 1%;
 }
