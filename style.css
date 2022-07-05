@@ -58,21 +58,17 @@ body {
 
 .section-c-cover {
     box-shadow: 10px 10px 40px lightgray;
-    width: 45%;
+    width: 35%;
     height: 65%;
     border-radius: 30px;
-    margin-left: 5%;
+    margin-left: 8%;
     margin-right: 5%;
 
 }
 
-.recipie {
-    height: 308px;
-    width: 92%;
-    border-radius: 30px;
-    padding-left: 4%;
-    padding-right: 4%;
-    padding-top: 4%;
+.hero {
+    margin: 4% 3% 3% 7%;
+    width: 70%;
 }
 
 .social-media {
