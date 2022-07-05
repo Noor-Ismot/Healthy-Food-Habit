@@ -4,8 +4,9 @@ body {
     margin: 0px;
 }
 
-.top {
+.container {
     display: flex;
+    margin-bottom: 70px;
 }
 
 .section-a-1 {
@@ -21,6 +22,30 @@ body {
     height: 844px;
     padding-left: 10%;
     margin-top: 43px;
+}
+
+.section-b {
+    background-image: url(images/Background-2.png);
+    background-repeat: no-repeat;
+    background-position: top-left;
+    background-size: 100% 60%;
+
+}
+
+.section-b-1 {
+    width: 30%;
+    height: 950px;
+    padding-left: 10%;
+    margin-top: 10px;
+}
+
+.section-b-2 {
+    width: 40%;
+    height: 300px;
+    padding-left: 10%;
+    margin-top: 150px;
+    text-align: justify;
+
 }
 
 h1 {
@@ -51,6 +76,7 @@ p {
     gap: 16px;
     color: white;
     justify-content: center;
+    margin-top: 70px;
 }
 
 .footer {
