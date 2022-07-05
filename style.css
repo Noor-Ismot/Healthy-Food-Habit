@@ -52,3 +52,19 @@ p {
     color: white;
     justify-content: center;
 }
+
+.footer {
+    background-color: black;
+    height: 100px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.footer-text {
+    color: white;
+}
+
+h3 {
+    color: #828282;
+}
